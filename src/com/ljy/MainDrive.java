@@ -1,3 +1,9 @@
+/*
+ * MainDrive.java
+ * @author LiJingYi
+ * @email jingyiliscut@gmail.com
+ */
+
 package com.ljy;
 import java.util.*;
 import java.io.File;
@@ -348,14 +354,14 @@ public class MainDrive {
 	}
 	
 	
-	public static void main(String args[]){
-		MainDrive test = new MainDrive();
-		String inputFile = "examlist.xls";
-		//int sheetcode = 0;
-		test.handleSouth(inputFile);
-		test.handleZhuhai(inputFile);
-		test.handleEast(inputFile);
-	}
+//	public static void main(String args[]){
+//		MainDrive test = new MainDrive();
+//		String inputFile = "examlist.xls";
+//		//int sheetcode = 0;
+//		test.handleSouth(inputFile);
+//		test.handleZhuhai(inputFile);
+//		test.handleEast(inputFile);
+//	}
 	
 	public ArrayList<Teacher> readClassInfo(String file, int sheeid){
 		//读取一门课的考试信息

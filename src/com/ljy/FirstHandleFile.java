@@ -1,3 +1,8 @@
+/*
+ * FirstHandleFile.java
+ * @author LiJingYi
+ * @email jingyiliscut@gmail.com
+ */
 package com.ljy;
 import java.io.File;
 import java.util.ArrayList;

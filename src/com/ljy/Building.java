@@ -1,3 +1,9 @@
+/*
+ * Building.java
+ * @author LiJingYi
+ * @email jingyiliscut@gmail.com
+ */
+
 package com.ljy;
 import java.util.*;
 

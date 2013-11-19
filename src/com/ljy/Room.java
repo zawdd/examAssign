@@ -1,3 +1,8 @@
+/*
+ * Room.java
+ * @author LiJingYi
+ * @email jingyiliscut@gmail.com
+ */
 package com.ljy;
 
 public class Room implements Comparable<Room>{
